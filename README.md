@@ -1,12 +1,12 @@
-# LiveBarForTwitch-Legal
+# StreamBarForTwitch-Legal
 
-Privacy Policy for LiveBar for Twitch
+Privacy Policy for StreamBar for Twitch
 
 Effective Date: Sep.28.2023
 
 ## 1. Introduction
 
-Welcome to LiveBar for Twitch ("the App"). We are committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our App.
+Welcome to StreamBar for Twitch ("the App"). We are committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our App.
 
 ## 2. Information We Collect
 
