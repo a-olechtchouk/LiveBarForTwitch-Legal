@@ -38,7 +38,7 @@ You have the right to revoke the App's access to your Twitch account at any time
 
 ## 7. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or the data handling practices of the App, please [contact us.](mailto:LiveBarSupport@proton.me)
+If you have any questions or concerns about this Privacy Policy or the data handling practices of the App, please [contact us.](mailto:andrew.o.dev@proton.me)
 
 ## 8. Changes to this Privacy Policy
 
